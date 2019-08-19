@@ -1,0 +1,17 @@
+$main: #8E3B46;
+$support: #EB5160;
+$support2: #EF476F;
+$contrast: #F4DBD8;
+$contrast2: #393D3F;
+$highlight: rgb(12, 233, 12);
+$highlight2: #000;
+
+$test: 1px solid red;
+
+@mixin usb-transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
