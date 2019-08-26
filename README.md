@@ -1,18 +1,28 @@
-# vuetest2
+# exercise-timer
+An Interval-based exercise timer using Vuejs.
 
-> A Vue.js project
+## Why Vue?
+  <p style="line-height: 1.4rem;">This is my first application that I used with a javascript front-end framework. And from what I know, Vue is the most beginner-friendly out of the 3 (React, AngularJS). Also I wanted to expirement with frameworks because by this point I've been making applications using basic HTML, CSS and javascript.</p>
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## Problems I had to solve
 
-# serve with hot reload at localhost:8080
-npm run dev
+### How do I store the state of my Application? <br>
+  <p style="line-height: 1.4rem;">At first I thought it would be a good idea to store my application's state within each component, but this was not easy since many of the other components required state from other components. So to achieve my needs I used Vuex. Vuex is a State Management library by Vue. By doing this I learned about the core concepts about state management that I assume will help me in learning other frameworks state management. </p>
 
-# build for production with minification
-npm run build
-```
+## Things I learned along the way
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* Vue
+* Vuex
+* Vue-cli
+* Front-End Framework Concepts
+    * State
+    * Components
+    * Interacting with CLI
+
+## Goals 
+
+- [x] Ability to edit the timer
+- [ ] Making It Responsive
+- [ ] Making Custom Exercise 
+- [ ] Tracking 
