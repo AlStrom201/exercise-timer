@@ -1,6 +1,8 @@
 # exercise-timer
 An Interval-based exercise timer using Vuejs.
 
+<h2>Live Preview: https://alstrom201.github.io/exercise-timer</h2>
+
 ## Why Vue?
   <p style="line-height: 1.4rem;">This is my first application that I used with a javascript front-end framework. And from what I know, Vue is the most beginner-friendly out of the 3 (React, AngularJS). Also I wanted to expirement with frameworks because by this point I've been making applications using basic HTML, CSS and javascript.</p>
 
