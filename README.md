@@ -3,28 +3,4 @@ An Interval-based exercise timer using Vuejs.
 
 <h2>Live Preview: https://alstrom201.github.io/exercise-timer</h2>
 
-## Why Vue?
-  <p style="line-height: 1.4rem;">This is my first application that I used with a javascript front-end framework. And from what I know, Vue is the most beginner-friendly out of the 3 (React, AngularJS). Also I wanted to expirement with frameworks because by this point I've been making applications using basic HTML, CSS and javascript.</p>
-
-
-## Problems I had to solve
-
-### How do I store the state of my Application? <br>
-  <p style="line-height: 1.4rem;">At first I thought it would be a good idea to store my application's state within each component, but this was not easy since many of the other components required state from other components. So to achieve my needs I used Vuex. Vuex is a State Management library by Vue. By doing this I learned about the core concepts about state management that I assume will help me in learning other frameworks state management. </p>
-
-## Things I learned along the way
-
-* Vue
-* Vuex
-* Vue-cli
-* Front-End Framework Concepts
-    * State
-    * Components
-    * Interacting with CLI
-
-## Goals 
-
-- [x] Ability to edit the timer
-- [ ] Making It Responsive
-- [ ] Making Custom Exercise 
-- [ ] Tracking 
+<p>For an overview of the project, read the Description.md file</p>
