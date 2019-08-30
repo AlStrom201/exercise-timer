@@ -33,6 +33,11 @@ export default {
 <style lang="scss">
 @import 'scss/main';
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .app {
   height: 100vh;
   background: $main;
